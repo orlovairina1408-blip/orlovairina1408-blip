@@ -87,7 +87,7 @@
 <br>
 
 ## 🤓 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/orlovairina1408-blip/orlovairina1408-blip/refs/heads/main/diplom.png)
+[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/orlovairina1408-blip/orlovairina1408-blip/refs/heads/main/diplom.png)
 
 <br>
 <br>
