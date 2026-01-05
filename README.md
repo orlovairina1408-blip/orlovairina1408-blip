@@ -1,4 +1,4 @@
-## Привет！ 🤝
+## Привет! 🤝
 Меня зовут Ирина, я QA Engineer
 
 ## 📊 Статистика
@@ -86,7 +86,7 @@
 
 <br>
 
-## 🤓 Образование
+## 🐱‍💻 Образование
 [<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/orlovairina1408-blip/orlovairina1408-blip/refs/heads/main/diplom.png)
 
 <br>
