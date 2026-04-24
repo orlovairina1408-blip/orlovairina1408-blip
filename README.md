@@ -77,8 +77,8 @@
 <br>
 
 ## 🐱‍🏍 Практика и стажировка
-
-
+[<img src="/intership.png" width="280px" hspace="10px" alt="Стажировка»">](https://raw.githubusercontent.com/orlovairina1408-blip/orlovairina1408-blip/refs/heads/main/intership.png)
+[<img src="/intership2.png" width="280px" hspace="10px" alt="Стажировка»">](https://raw.githubusercontent.com/orlovairina1408-blip/orlovairina1408-blip/refs/heads/main/intership2.png)
 <br>
 
 ## 🐱‍💻 Образование
